@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Samba de Janeiro (Club Mix)",
+  "base_artist": "Bellini",
+  "createdAt": "2026-03-20T14:32:46.196888Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Samba de Janeiro (Club Mix)",
+      "artist": "Bellini",
+      "has_synced": true,
+      "path": "select/01_Samba_de_Janeiro_(Club_Mix)_Bellini.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Samba de Janeiro (club mix)",
+      "artist": "Bellini",
+      "has_synced": true,
+      "path": "select/02_Samba_de_Janeiro_(club_mix)_Bellini.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Samba de Janeiro (club mix)",
+      "artist": "Bellini",
+      "has_synced": true,
+      "path": "select/03_Samba_de_Janeiro_(club_mix)_Bellini.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Samba De Janeiro - Club Mix",
+      "artist": "Bellini",
+      "has_synced": true,
+      "path": "select/04_Samba_De_Janeiro_-_Club_Mix_Bellini.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "zumba BRAZILIAN - Bellini - Samba de Janeiro (Club Mix)",
+      "artist": "Zumba",
+      "has_synced": true,
+      "path": "select/05_zumba_BRAZILIAN_-_Bellini_-_Samba_de_Janeiro_(Club_Mix)_Zumba.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Samba De Janeiro [Club Mix]",
+      "artist": "Bellini",
+      "has_synced": true,
+      "path": "select/06_Samba_De_Janeiro_[Club_Mix]_Bellini.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Samba De Janeiro (Club Mix)",
+      "artist": "Vincenzo Bellini",
+      "has_synced": true,
+      "path": "select/07_Samba_De_Janeiro_(Club_Mix)_Vincenzo_Bellini.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Samba De Janeiro  Club Mix -",
+      "artist": "Bellini",
+      "has_synced": true,
+      "path": "select/08_Samba_De_Janeiro_Club_Mix_-_Bellini.lrc"
+    }
+  ]
+}
